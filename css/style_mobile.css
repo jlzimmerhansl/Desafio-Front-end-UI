@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Verdana', sans-serif;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.container {
+	width: 320px;
+	height: 2679px;
+}
+
+.gray {
+		height: 400px;	
+		width: 320px;	
+		background-color: #F3F3F4;
+}
+
+.logo {
+	height: 37px;
+	width: 213px;
+	margin-top: 12px;
+}
+
+header h3 {
+	height: 84px;	
+	width: 275px;	
+	color: #0088EE;	
+	font-family: "Open Sans";	
+	font-size: 32px;	
+	font-weight: bold;	
+	line-height: 42px;	
+	text-align: center;
+}
+
+
+header p  {	
+	height: 96px;	
+	width: 275px;	
+	color: #888888;	
+	font-family: "Open Sans";	
+	font-size: 16px;	
+	line-height: 24px;	
+	text-align: center;
+}
+
+.button {
+	background-color: rgb(3, 138, 232);
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	text-align: center;
+	text-transform: uppercase;
+	height: 48px;	
+	width: 275px;	
+	background-color: #0088EE;
+}
+
+.button:hover {
+	background-color: rgb(3, 54, 73);
+}
+
+.feature {
+	margin-top: 40px;
+	height: 350px;
+	width: 276px;
+}
+
+.featture img {
+	height: 151px;
+	margin-top: 20px;
+	width: 300px;
+	align-items: center;
+
+}
+
+.feature h3 {
+		height: 32px;	
+		width: 275px;	
+		color: #0088EE;	
+		font-family: "Open Sans";	
+		font-size: 24px;	
+		font-weight: bold;	
+		line-height: 32px;	
+		text-align: center;
+}
+
+.feature .triangulodir {
+	box-sizing: border-box;	
+	margin-right: 40px;	
+	border: 3px 
+	solid #0088EE;	
+	transform: rotate(180deg);
+}
+
+.feature .trianguloesqu {	
+	margin-left: 40px;
+	box-sizing: border-box;	
+	border: 3px solid #0088EE;	
+	transform: scaleX(-1) rotate(360deg);
+}
+
+.feature circuloazul {
+	height: 13px;	
+	width: 13px;	
+	background-color: #0088EE;}
+}
+
+.feature circulomeio {
+	height: 13px;	
+	width: 13px;	
+	background-color: #0088EE;}
+}
+
+.feature circulodir {
+	height: 13px;	
+	width: 13px;	
+	background-color: #0088EE;}
+}
+
+.box_gray {
+
+	background-color: #F3F3F4;
+}
+
+.bg-blog h3 {
+	height: 64px;
+	width: 278px;
+	color: #0088EE;
+	font-family: "Open Sans";
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 32px;
+	text-align: center;
+}
+
+
+
+.bg-blog h4 {
+	height: 32px;
+	width: 180px;
+	color: #0088EE;
+	font-family: "Open Sans";
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 32px;
+	text-align: center;
+}
+
+.bg-blog p {
+	height: 96px;
+	width: 227px;
+	color: #888888;
+	font-family: "Open Sans";
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+}
+
+footer p{
+	margin-top: 30px;
+	height: 216px;
+	width: 261px;
+	color: #888888;
+	font-family: "Open Sans";
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+}
+
+footer .logo{
+	margin-top: 30px;
+}
+
+footer .socialmedia{
+	margin-top: 30px;
+}
+
+footer .location{
+	margin-top: 30px;
+
+}
+
+
+
+
+
+
+

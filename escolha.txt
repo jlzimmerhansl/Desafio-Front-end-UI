@@ -1,0 +1,11 @@
+A versão escolhida de landing page foi a segunda, pois acredita-se que ela é mais "fluída" e de melhor navegação para o usuário. 
+
+Essa versão trará mais engajamento do usuário e por isso foi escolhida. Trabalhei com opacidade nas imagens, hover nos botões e vários artifícios para atrair a atenção de quem irá navegar na página, além de manter a forma "clean" que foi apresentado.
+
+Mantive todas as diretrizes apresentadas no documento.
+
+Os call-of-actions está bem posicionado para o usuário e isso será de imensa ajuda para direcionar o usuário para o ponto de interesse da empresa.
+
+Enfim, acredita-se que a segunda versão será muito mais produtivo para a empresa.
+
+
